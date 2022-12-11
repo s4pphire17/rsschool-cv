@@ -24,3 +24,6 @@
 * Russian - native 
 * English - Intermidate
 ----
+
+## *Beautiful me*
+![cute boy (:](myself.jpg)
