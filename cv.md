@@ -19,3 +19,8 @@
 * analytical mindset
 
 ----
+## *Languages:*
+* Belorusian - native
+* Russian - native 
+* English - Intermidate
+----
