@@ -1,1 +1,1 @@
-**https://s4pphire17.github.io/rsschool-cv/cv**
+*[About me](https://s4pphire17.github.io/rsschool-cv/cv)*
